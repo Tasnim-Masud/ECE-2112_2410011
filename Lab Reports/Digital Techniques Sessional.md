@@ -1,4 +1,4 @@
-##ECE-1204_2410011_Lab Reports
+## ECE-1204_2410011_Lab Reports
 <div align="center">
   
 _**Heaven’s Light is Our Guide**_
